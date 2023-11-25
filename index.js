@@ -1,6 +1,6 @@
-// Import the required modules.
-const fs = require("fs");
-const path = require("path");
-const inquirer = require("inquirer");
+// Import required files.
+const CLI = require("./lib/cli.js");
 
-const Shapes = require("./lib/Shapes.js");
+const cli = new CLI();
+
+cli.run();
