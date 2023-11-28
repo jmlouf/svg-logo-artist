@@ -1,5 +1,6 @@
 const { Circle, Square, Triangle } = require("../lib/shape.js");
 
+// Each tests for: shape class, color.
 describe('Shape', () => {
     test('should render string for circle with coordinates and red fill', () => {
         const shape = new Circle();

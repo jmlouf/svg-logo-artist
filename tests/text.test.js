@@ -1,5 +1,6 @@
 const { Text } = require("../lib/text.js");
 
+// Each tests for: shape input, text input, text color.
 describe('Text', () => {
     test('should render JMM text string, for circle, and black fill', () => {
         const shapeTypeInput = 'Circle';
