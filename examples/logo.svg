@@ -1,9 +1,11 @@
 <svg version="1.1"
-width="300" height="200"
+width="300"
+height="200"
 xmlns="http://www.w3.org/2000/svg">
 
-  <polygon points='0, 200 300, 200 150, 0' fill='black' />
+  <circle cx="150" cy="100" r="82" fill="green" />
 
-  <text x='150' y='165' font-size='90' textLength='190' lengthAdjust='spacingAndGlyphs' text-anchor='middle' dominant-baseline='central' fill='white'>TTT</text>
+  <text x="150" y="100" font-size="70" lengthAdjust="spacingAndGlyphs" text-anchor="middle" dominant-baseline="central" fill="blue">TTT</text>
 
 </svg>
+  
