@@ -63,7 +63,7 @@ Generated logo.svg
 
 The following video link demonstrates the application's functionality:
 
-[Google Drive Video Link](https://drive.google.com/file/d/1cXQXQTvHMYzuBfCEc8j73j_ydZ60ELNG/view)
+[Google Drive Video Link](https://drive.google.com/file/d/1NNWBikohIfEKzUOrcH1ksMi-yW1aq8Xd/view)
 
 ## Credits
 
